@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "MismotuMuzej: QR-code guide for a network of small museums (prototype) (MIT App Inventor (Android), 2020)"
+version: "1.0"
+abstract: "The first version of a museum guide based on QR codes. The visitor starts the visit, frames the QR code displayed in the museum with the camera and the app opens the corresponding content page in an embedded web viewer. It is the prototype from which the museum passport app was developed."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+repository-code: "https://github.com/massimosbarbaro/museum-qr-guide-prototype-appinventor"
+keywords:
+  - "MIT App Inventor"
+  - "Android"
+  - "QR code"
+  - "museum guide"
+  - "cultural heritage"
