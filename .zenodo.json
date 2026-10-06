@@ -1,6 +1,7 @@
 {
   "title": "MismotuMuzej: QR-code guide for a network of small museums (prototype) (MIT App Inventor (Android), 2020)",
   "upload_type": "software",
+  "publication_date": "2020-05-27",
   "description": "<p><em>Guida a codici QR per una rete di piccoli musei (prototipo)</em></p><p>The first version of a museum guide based on QR codes. The visitor starts the visit, frames the QR code displayed in the museum with the camera and the app opens the corresponding content page in an embedded web viewer. It is the prototype from which the museum passport app was developed.</p><p>Designed and programmed by Massimo Sbarbaro in 2020 (MIT App Inventor (Android)). Published in 2026; all original data and the names of client organisations have been removed.</p>",
   "creators": [
     {
