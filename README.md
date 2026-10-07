@@ -1,8 +1,10 @@
 # MismotuMuzej: QR-code guide for a network of small museums (prototype)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23205249.svg)](https://doi.org/10.5281/zenodo.23205249)
+
 *Guida a codici QR per una rete di piccoli musei (prototipo)*
 
-**MIT App Inventor (Android)** · 2020 · version 1.0  
+**Android** · 2020 · version 1.0  
 Author: **Massimo Sbarbaro** ([ORCID 0009-0006-8965-9013](https://orcid.org/0009-0006-8965-9013))
 
 ## Overview
@@ -40,13 +42,13 @@ Photographs, illustrations, logos, sound recordings and stock images are **not**
 
 ## Related repositories
 
-- [museum-network-qr-passport-appinventor](https://github.com/massimosbarbaro/museum-network-qr-passport-appinventor)
+- [museum-network-qr-passport-android](https://github.com/massimosbarbaro/museum-network-qr-passport-android)
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). Each release is archived on Zenodo with its own DOI.
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23205249](https://doi.org/10.5281/zenodo.23205249).
 
-> Sbarbaro, Massimo. *MismotuMuzej: QR-code guide for a network of small museums (prototype) (MIT App Inventor (Android), 2020)*. Software, version 1.0. GitHub: https://github.com/massimosbarbaro/museum-qr-guide-prototype-appinventor
+> Sbarbaro, Massimo. 2020. *MismotuMuzej: QR-code guide for a network of small museums (prototype)*. Software (Android, 2020), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23205249.
 
 ## License
 
